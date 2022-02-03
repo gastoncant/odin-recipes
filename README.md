@@ -1,2 +1,2 @@
 # odin-recipes
-My first HTML webpage in which a couple of recipes will be displayed.
+A simple HTML web page displaying 2 simple recipes
